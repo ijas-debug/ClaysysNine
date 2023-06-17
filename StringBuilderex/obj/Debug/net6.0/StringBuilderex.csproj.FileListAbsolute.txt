@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\StringBuilderex\bin\Debug\net6.0\StringBuilderex.exe
+C:\Users\IJAS\source\repos\StringBuilderex\bin\Debug\net6.0\StringBuilderex.deps.json
+C:\Users\IJAS\source\repos\StringBuilderex\bin\Debug\net6.0\StringBuilderex.runtimeconfig.json
+C:\Users\IJAS\source\repos\StringBuilderex\bin\Debug\net6.0\StringBuilderex.dll
+C:\Users\IJAS\source\repos\StringBuilderex\bin\Debug\net6.0\StringBuilderex.pdb
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.dll
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\refint\StringBuilderex.dll
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.pdb
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\StringBuilderex.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\StringBuilderex\obj\Debug\net6.0\ref\StringBuilderex.dll

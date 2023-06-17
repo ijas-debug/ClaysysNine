@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\MethidOLoadEx\bin\Debug\net6.0\MethidOLoadEx.exe
+C:\Users\IJAS\source\repos\MethidOLoadEx\bin\Debug\net6.0\MethidOLoadEx.deps.json
+C:\Users\IJAS\source\repos\MethidOLoadEx\bin\Debug\net6.0\MethidOLoadEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\MethidOLoadEx\bin\Debug\net6.0\MethidOLoadEx.dll
+C:\Users\IJAS\source\repos\MethidOLoadEx\bin\Debug\net6.0\MethidOLoadEx.pdb
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.dll
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\refint\MethidOLoadEx.dll
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.pdb
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\MethidOLoadEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\MethidOLoadEx\obj\Debug\net6.0\ref\MethidOLoadEx.dll
