@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\InheritanceEx\bin\Debug\net6.0\InheritanceEx.exe
+C:\Users\IJAS\source\repos\InheritanceEx\bin\Debug\net6.0\InheritanceEx.deps.json
+C:\Users\IJAS\source\repos\InheritanceEx\bin\Debug\net6.0\InheritanceEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\InheritanceEx\bin\Debug\net6.0\InheritanceEx.dll
+C:\Users\IJAS\source\repos\InheritanceEx\bin\Debug\net6.0\InheritanceEx.pdb
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.dll
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\refint\InheritanceEx.dll
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.pdb
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\InheritanceEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\InheritanceEx\obj\Debug\net6.0\ref\InheritanceEx.dll

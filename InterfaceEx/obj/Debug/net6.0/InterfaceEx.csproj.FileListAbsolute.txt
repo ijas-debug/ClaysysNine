@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\InterfaceEx\bin\Debug\net6.0\InterfaceEx.exe
+C:\Users\IJAS\source\repos\InterfaceEx\bin\Debug\net6.0\InterfaceEx.deps.json
+C:\Users\IJAS\source\repos\InterfaceEx\bin\Debug\net6.0\InterfaceEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\InterfaceEx\bin\Debug\net6.0\InterfaceEx.dll
+C:\Users\IJAS\source\repos\InterfaceEx\bin\Debug\net6.0\InterfaceEx.pdb
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.dll
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\refint\InterfaceEx.dll
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.pdb
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\InterfaceEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\InterfaceEx\obj\Debug\net6.0\ref\InterfaceEx.dll
